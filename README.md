@@ -1,7 +1,7 @@
 # Hi, I'm Harmeet Dhillon 👋  
 
 👨‍💻 **About Me**  
-- 🔧 **Robotics Engineer** passionate about **agriculture robotics**, **autonomous systems**, and **multi-robot systems**.  
+- 🔧 **Robotics Engineer** passionate about **computer vision** **agriculture robotics**, **autonomous systems**, and **multi-robot systems**.  
 - 🌐 Skilled in **C++**, **motion planning**, **ROS**, **MDPs**, and **PLCs** (Schneider & Allen Bradley).  
 - 🧠 Currently exploring **SLAM**, **Computer Vision**, and **TinyML**.  
 
